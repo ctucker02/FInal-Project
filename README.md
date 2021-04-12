@@ -1,2 +1,2 @@
-# FInal-Project
+# Final-Project
 Engineering 4 Final Project
