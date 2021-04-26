@@ -33,3 +33,4 @@ Week 6: Finish fixing problems, add finishing touches.
 
 Week 7: Final project complete.  
 
+### Pictures
