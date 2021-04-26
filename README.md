@@ -6,6 +6,9 @@ Engineering 4 Final Project
 ### Project Idea
 Use pre built base from last year to construct a robot arm to work with a raspberry pi. The robot arm will pick up an object; and by turning the knobs, will change where the object will be placed. 
 
+### Pictures
+![robotcade](Images/robotcade.jpg)
+
 ### Materials Needed
 - Old Project 
 - Raspberry Pi
@@ -33,5 +36,3 @@ Week 6: Finish fixing problems, add finishing touches.
 
 Week 7: Final project complete.  
 
-### Pictures
-![robotcade](Images/robotcade.jpg)
