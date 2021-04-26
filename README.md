@@ -8,6 +8,7 @@ Use pre built base from last year to construct a robot arm to work with a raspbe
 
 ### Pictures
 ![robotcade](Images/robotcade.jpg)
+![caderobot](Images/caderobot.jpg)
 
 ### Materials Needed
 - Old Project 
